@@ -5,7 +5,4 @@ Google Gemini health application to detect calories in food
 
 <img width="562" height="812" alt="image" src="https://github.com/user-attachments/assets/e1c7e664-7b2a-4b5b-b48c-e061c24e47ea" />
 
-![Uploading image.png…]()
-
-
-
+<img width="555" height="605" alt="image" src="https://github.com/user-attachments/assets/316182b4-cecb-47e9-b83c-bac34eeca17e" />
